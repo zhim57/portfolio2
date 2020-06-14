@@ -17,12 +17,15 @@
     color:rgb(205, 226, 14);
     
 }
-.fullName{
+.fullName {
     
     float: right;
+    font-size: 36px;
     font-weight: bold;
     float:right;
-    color:white 
+    color:white
+   
+
     
 }
 .card-img-overlay{
@@ -60,7 +63,8 @@ padding: 5%;
 border: 1px solid gray;
 background: grey;
 padding:5px;
-margin:5px;
+margin-top:130px;
+margin-bottom: 50px;
 color:white;
 font-size: 20px;
 
@@ -88,4 +92,8 @@ footer{
     color:white;
     background: #333;
     text-align: center;
+}
+.row1{
+
+   display: grid;
 }
