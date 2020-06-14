@@ -55,10 +55,14 @@ font-weight: bold;
 }
 
 .contacts{
+width:60%;
+padding: 20%;
+border: 1px solid gray;
+background: grey;
 padding:25px;
 margin:25px;
-color:blue;
-font-size: 22px;
+color:white;
+font-size: 32px;
 
 
 }
@@ -69,13 +73,14 @@ font-size: 22px;
     padding: 30px;
 }
 .box{
-    float:right;
-    width: 50%;
-    padding: 30px;
-    margin: 10px;
+    align-items: center;
+    width: 80%;
+    padding: 50px;
+    margin: 30px;
     margin-top: 130px;
     border: gray 1px;
     background: gray;
+    text size:20px
 }
 footer{
     clear: both;
