@@ -79,7 +79,7 @@ font-size: 20px;
 .box{
     
     align-items: center;
-    width: 80%;
+    width: 60%;
     padding: 50px;
     margin: 30px;
     margin-top: 130px;
@@ -98,11 +98,46 @@ footer{
 
    display: grid;
 }
+.img-fluid{
+    float:left;
+    margin: 20px;
+}
 .niceText{
+
 font-size: 20px;
-text-align: justify;
+
 color: white;
 }
 .imgInline{
     display: inline;
 }
+
+/* // Extra small devices (portrait phones, less than 576px) */
+
+/* // No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... } */
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+/* // Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... } */
