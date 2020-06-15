@@ -9,5 +9,5 @@ created and linked the style.css file to style all elements on the 3 pages
 
 4. uploaded to githup and troubleshoot the paths , relinked the images so to work on github.
 5. added some comentary to the code
-6. prpared this readme file.
+6. prepared this readme file.
 
